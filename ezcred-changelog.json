@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.92",
-  "latestVersionCode": 92,
+  "latestVersion": "1.0.94",
+  "latestVersionCode": 94,
   "url": "https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view",
   "releaseNotes": [
-    "- CKYC Consent Changes. App Update Required. In case of error during install, uninstall the existing app. Download the app using the link https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view"
+    "- KYC Using CKYC Changes. App Update Required. In case of error during install, uninstall the existing app. Download the app using the link https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view"
   ]
 }
