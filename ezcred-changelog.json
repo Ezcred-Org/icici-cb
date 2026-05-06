@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.102",
-  "latestVersionCode": 102,
+  "latestVersion": "1.0.104",
+  "latestVersionCode": 104,
   "url": "https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view",
   "releaseNotes": [
-    "- KYC Using OVD mode Changes. App Update Required. In case of error during install, uninstall the existing app. Download the app using the link https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view"
+    "- APS now supports Ind and Non-Ind both. Download Signed Application Form. Security fix - Disable Screenshot on app. App Update Required. In case of error during install, uninstall the existing app. Download the app using the link https://drive.google.com/file/d/1iC40UfvSmRd0T08CbMv8bg2zW9ayPyaw/view"
   ]
 }
